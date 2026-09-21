@@ -1,6 +1,6 @@
 # VAVA (ライドアーマー非搭乗)
 
-vile-unmounted.md
+VILE (UNMOUNTED) (SIGMA1).md
 
 シグマステージ1
 
