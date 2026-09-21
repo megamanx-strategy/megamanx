@@ -1,11 +1,11 @@
-# VAVA（ライドアーマー非搭乗）
+# VAVA【ライドアーマー非搭乗】
 
 |[目次へ](目次.md)|
 |:---:|
 
 ---
 
-Vile (Unmounted) (Sigma1).md
+Vile【Unmounted】【Sigma1】.md
 
 シグマステージ1
 
