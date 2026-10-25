@@ -5,7 +5,7 @@
 
 ---
 
-Vile【Unmounted】【Sigma1】.md
+Vile-Sigma1-Unmounted.md
 
 |登場ステージ|シグマステージ1|
 |:---:|:---:|
