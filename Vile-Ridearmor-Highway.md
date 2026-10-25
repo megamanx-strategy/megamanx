@@ -8,7 +8,7 @@
 |登場ステージ|ハイウェイステージ (オープニングステージ)|
 |:---:|:---:|
 
-Vile Ridearmor (Highway)
+Vile-Ridearmor-Highway.md
 
 |行動|確率|
 |:---:|:---:|
