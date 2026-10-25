@@ -8,7 +8,7 @@
 ## オープニングステージ
 |[ビーブレイダー](Bee-Blader.md)|
 |:---:|
-|[**VAVA・ライドアーマー【ハイウェイ】**](Vile-Ridearmor-Highway.md)|
+|[**VAVA・ライドアーマー（ハイウェイ）**](Vile-Ridearmor-Highway.md)|
 
 ---
 
