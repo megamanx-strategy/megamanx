@@ -22,9 +22,9 @@
 ---
 
 ## シグマステージ
-|[VAVA・ライドアーマー（シグマ1）](Vile-Unmounted-Sigma1.md)|
+|[VAVA・ライドアーマー（シグマ1）](Vile-Ridearmor-Sigma1.md)|
 |:---:|
-|[**VAVA（ライドアーマー非搭乗）**](Vile-Sigma1-Unmounted.md)|
+|[**VAVA（ライドアーマー非搭乗）**](Vile-Unmounted-Sigma1.md)|
 |[**ボスパイダー**](Bospider.md)|
 |[**ランダ・バンダ**](Rangda-Bangda.md)|
 |[**D-REX**](D-REX.md)|
